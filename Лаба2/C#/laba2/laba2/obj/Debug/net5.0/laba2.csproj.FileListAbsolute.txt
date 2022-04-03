@@ -1,0 +1,16 @@
+D:\programming\CSharp\labs\laba2\laba2\bin\Debug\net5.0\laba2.exe
+D:\programming\CSharp\labs\laba2\laba2\bin\Debug\net5.0\laba2.deps.json
+D:\programming\CSharp\labs\laba2\laba2\bin\Debug\net5.0\laba2.runtimeconfig.json
+D:\programming\CSharp\labs\laba2\laba2\bin\Debug\net5.0\laba2.runtimeconfig.dev.json
+D:\programming\CSharp\labs\laba2\laba2\bin\Debug\net5.0\laba2.dll
+D:\programming\CSharp\labs\laba2\laba2\bin\Debug\net5.0\ref\laba2.dll
+D:\programming\CSharp\labs\laba2\laba2\bin\Debug\net5.0\laba2.pdb
+D:\programming\CSharp\labs\laba2\laba2\obj\Debug\net5.0\laba2.csproj.AssemblyReference.cache
+D:\programming\CSharp\labs\laba2\laba2\obj\Debug\net5.0\laba2.GeneratedMSBuildEditorConfig.editorconfig
+D:\programming\CSharp\labs\laba2\laba2\obj\Debug\net5.0\laba2.AssemblyInfoInputs.cache
+D:\programming\CSharp\labs\laba2\laba2\obj\Debug\net5.0\laba2.AssemblyInfo.cs
+D:\programming\CSharp\labs\laba2\laba2\obj\Debug\net5.0\laba2.csproj.CoreCompileInputs.cache
+D:\programming\CSharp\labs\laba2\laba2\obj\Debug\net5.0\laba2.dll
+D:\programming\CSharp\labs\laba2\laba2\obj\Debug\net5.0\ref\laba2.dll
+D:\programming\CSharp\labs\laba2\laba2\obj\Debug\net5.0\laba2.pdb
+D:\programming\CSharp\labs\laba2\laba2\obj\Debug\net5.0\laba2.genruntimeconfig.cache
